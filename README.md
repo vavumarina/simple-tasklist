@@ -1,0 +1,1 @@
+this mini project is just a way of training my basic skills on the front-end development, by creating a simple tasklist with the possibility of switching the page theme by clicking on the round button itself, which will connect to the CSS file and also change the colors of the entire page, but keeping the original words. 
